@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\views\\design\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\views\\design\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\furnitureshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\furnitureshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\controllers\\furniturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\controllers\\furniturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\models\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\models\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|c:\\users\\user\\desktop\\firstmvchomework\\furnitureshop\\furnitureshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AAFAA2-C4EE-4FF1-B279-EFE361093574}|FurnitureShop\\FurnitureShop.csproj|solutionrelative:furnitureshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FurnitureController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\FurnitureController.cs",
+              "RelativeDocumentMoniker": "FurnitureShop\\Controllers\\FurnitureController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\FurnitureController.cs",
+              "RelativeToolTip": "FurnitureShop\\Controllers\\FurnitureController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:43:20.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Models\\Furniture.cs",
+              "RelativeDocumentMoniker": "FurnitureShop\\Models\\Furniture.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Models\\Furniture.cs",
+              "RelativeToolTip": "FurnitureShop\\Models\\Furniture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:31:22.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurnitureShop\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "FurnitureShop\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T13:48:53.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\Design\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurnitureShop\\Views\\Design\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\Design\\Index.cshtml",
+              "RelativeToolTip": "FurnitureShop\\Views\\Design\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T13:44:47.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurnitureShop\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "FurnitureShop\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T13:31:30.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Program.cs",
+              "RelativeDocumentMoniker": "FurnitureShop\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Program.cs",
+              "RelativeToolTip": "FurnitureShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:21:27.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "FurnitureShop\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "FurnitureShop\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:12:19.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FurnitureShop.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\FurnitureShop.csproj",
+              "RelativeDocumentMoniker": "FurnitureShop\\FurnitureShop.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\FurnitureShop.csproj",
+              "RelativeToolTip": "FurnitureShop\\FurnitureShop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T12:04:03.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "FurnitureShop\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "FurnitureShop\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:09:08.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurnitureShop\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "FurnitureShop\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T13:20:23.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FurnitureShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FurnitureShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAADcAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T12:16:02.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FurnitureShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FurnitureShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T17:19:16.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "FurnitureShop\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "FurnitureShop\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:25:23.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DesignController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\DesignController.cs",
+              "RelativeDocumentMoniker": "FurnitureShop\\Controllers\\DesignController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\DesignController.cs",
+              "RelativeToolTip": "FurnitureShop\\Controllers\\DesignController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:13:09.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FurnitureShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FurnitureShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T12:18:27.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurnitureShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FurnitureShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T12:11:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FurnitureShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FirstMVCHomework\\FurnitureShop\\FurnitureShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FurnitureShop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:08:25.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
